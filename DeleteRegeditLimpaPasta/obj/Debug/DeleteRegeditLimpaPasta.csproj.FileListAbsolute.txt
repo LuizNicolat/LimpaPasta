@@ -1,0 +1,8 @@
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\bin\Debug\DeleteRegeditLimpaPasta.exe.config
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\bin\Debug\DeleteRegeditLimpaPasta.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\bin\Debug\DeleteRegeditLimpaPasta.pdb
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\obj\Debug\DeleteRegeditLimpaPasta.Form1.resources
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\obj\Debug\DeleteRegeditLimpaPasta.Properties.Resources.resources
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\obj\Debug\DeleteRegeditLimpaPasta.csproj.GenerateResource.Cache
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\obj\Debug\DeleteRegeditLimpaPasta.exe
+C:\Users\Luiz\Documents\Visual Studio 2017\Projects\LimpaPasta\DeleteRegeditLimpaPasta\obj\Debug\DeleteRegeditLimpaPasta.pdb
